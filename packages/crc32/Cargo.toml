@@ -10,7 +10,7 @@ crate-type = ["cdylib"]
 [dependencies]
 crc32c = {version = "0.6"}
 crc32fast = {version = "1.2", features = ["nightly"]}
-napi = "1"
+napi = "2"
 napi-derive = "1"
 
 [target.'cfg(all(target_arch = "x86_64", not(target_env = "musl")))'.dependencies]
