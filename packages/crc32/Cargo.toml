@@ -17,4 +17,4 @@ napi-derive = "1"
 mimalloc = {version = "0.1"}
 
 [build-dependencies]
-napi-build = "1"
+napi-build = "2"
