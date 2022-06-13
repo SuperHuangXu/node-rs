@@ -23,4 +23,4 @@ mimalloc = {version = "0.1"}
 quickcheck = "1.0"
 
 [build-dependencies]
-napi-build = "1.1.0"
+napi-build = "2.0.1"
